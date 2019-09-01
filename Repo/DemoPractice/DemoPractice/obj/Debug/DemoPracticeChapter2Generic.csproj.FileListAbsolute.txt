@@ -1,0 +1,7 @@
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\bin\Debug\DemoPractice.exe.config
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\bin\Debug\DemoPractice.exe
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\bin\Debug\DemoPractice.pdb
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\obj\Debug\DemoPracticeChapter2Generic.csprojAssemblyReference.cache
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\obj\Debug\DemoPracticeChapter2Generic.csproj.CoreCompileInputs.cache
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\obj\Debug\DemoPractice.exe
+H:\Book C# Base\Repo\DemoPractice\DemoPractice\obj\Debug\DemoPractice.pdb
